@@ -4,7 +4,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ameer005.github.io/hurdle-landing-page-with-single-introductory-section-frontendmentor/](https://ameer005.github.io/hurdle-landing-page-with-single-introductory-section-frontendmentor/)
 
 ### Built with
 
